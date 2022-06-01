@@ -1,6 +1,6 @@
 export const AppConfig = {
-  site_name: 'React landing page',
-  title: 'React landing page template 2021',
-  description: 'Production ready plug n play landing page!',
+  site_name: 'Cerebellia',
+  title: 'a company dedicated to the wellbeing of individuals afflicted with Parkinson\'s Disease ',
+  description: 'Track, Understand and Optimize your Parkinson\'s Disease Symptoms',
   locale: 'en',
 };

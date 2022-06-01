@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "Cerebellia",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
@@ -14,71 +14,67 @@
     },
 
     {
-      "name": "Pricing",
-      "href": "pricing"
-    },
-    {
       "name": "About",
       "href": "about"
     }
   ],
   "callToAction": {
-    "text": "Get started",
-    "href": "#"
+    "text": "Download",
+    "href": "https://testflight.apple.com/join/DGDCbWJa"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "Efficiently Manage Parkinson’s Disease (PD)",
+    "subtitle": "",
+    "description": "We imagine a world with more certainty and empowerment for people with PD using tech.",
+    "img": "/assets/images/landing.png",
     "primaryAction": {
-      "text": "Get started",
-      "href": "#"
+      "text": "Download",
+      "href": "https://testflight.apple.com/join/DGDCbWJa"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:andreasink@cerebellia.com"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Track Tremors",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
+        "title": "Track your improvement over time",
+        "description": "Cerebellia uses Apple Watch to contentiously monitors tremors and compare tremors to other data points",
+        "img": "/assets/images/mocks.png"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "title": "Gain Insights",
+        "description": "Understand what may influence your tremors, unlock more information for your doctor",
+        "img": "/assets/images/mocks2.png"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "INTRODUCING",
+    "subtitle": "Lifestyle Experiments",
+    "description": "Experiment with lifestyle factors to determine how they affect your condition. Learn and adapt to improve your symptoms naturally",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
+        "name": "Tremor Tracking",
+        "description": "Tracking tremors enables people with PD to make lifestyle changes that improve health",
+        "icon": "/assets/images/hand.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "name": "Health Analytics",
+        "description": "Health data, such as steps may influence tremors, Cerebellia enables people with PD to determine what lifestyle changes improve health.",
+        "icon": "/assets/images/workout.png"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
+        "name": "Intelligent Machine Learning",
+        "description": "Speedy on-device machine learning and algorithmic processing encourages greater understanding of health and more information for medical professionals",
+        "icon": "/assets/images/graph.png"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "name": "Apple Watch and iPhone Support",
+        "description": "Track tremors with an Apple Watch (continuously) or with your iPhone.  Effortlessly export the tremor data to a medical professional",
+        "icon": "/assets/images/mocks2.png"
       }
     ]
   },
@@ -124,30 +120,24 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "Contact",
+        "href": "mailto:andreasink@cerebellia.com",
+        "content": ""
       },
       {
-        "name": "Something",
+        "name": "Privacy",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": ""
       },
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
+        "name": "Press Kit",
+        "href": "https://www.craft.do/s/DMTVS61cDPu1TE",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "github": "https://github.com/cerebellia",
+      "linkedin": "https://www.linkedin.com/company/cerebellia/"
     }
   }
 }
