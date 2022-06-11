@@ -63,7 +63,7 @@ const About = () => {
          
         </div>
         <div className="flex items-center mt-6">
-         
+         <h1>andreasink@cerebellia.com</h1>
         </div>
       </div>
     </div>
