@@ -67,15 +67,11 @@ const Pricing = () => {
                 className={`h-1 w-full bg-primary my-0 py-0 rounded-t`}
               ></div>
               <ul className={`w-full text-center text-base font-bold`}>
-                {secondPlan?.features.map((feature) => (
-                  <li
-                    className={`border-b py-4`}
-                    key={`${secondPlan?.name}-${feature}`}
-                  >
-                    {feature}
-                  </li>
-                ))}
+               <img src={secondPlan?.icon} style={{margin: "10px"}}></img>
               </ul>
+              <ul className={`w-full text-center text-base font-bold`}>
+              <a href='https://techcrunch.com/2022/06/16/brain-data-startup-rune-labs-gets-fda-clearance-for-apple-watch-based-parkinsons-tracker/'>Read More</a>
+            </ul>
             </div>
             <div
               className={`flex-none mt-auto bg-background rounded-b rounded-t-none overflow-hidden shadow p-6`}
